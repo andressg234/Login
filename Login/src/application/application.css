@@ -1,0 +1,33 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.boton {
+	-fx-background-color: #000000;
+}
+
+.fondo {
+	-fx-background-color: #3082E2;
+}
+
+.gridPane {
+	
+}
+
+.vBox {
+	-fx-background-radius: 8;
+}
+
+.foto1 {
+	-fx-background-image: url('foto1.jpg');
+}
+
+.foto2 {
+	-fx-background-image: url('foto2.jpg');
+}
+
+.foto3 {
+	-fx-background-image: url('foto3.jpg');
+}
+
+.foto4 {
+	-fx-background-image: url('foto4.jpg');
+}
